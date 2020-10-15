@@ -446,7 +446,7 @@
       </trans-unit>
       <trans-unit id="Summit" datatype="html">
         <source>Summit</source>
-        <target> 산정상 </target>
+        <target>산정상</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/alerts/alerts.component.html</context>
           <context context-type="linenumber">45</context>
@@ -454,7 +454,7 @@
       </trans-unit>
       <trans-unit id="Callsign" datatype="html">
         <source>Callsign</source>
-        <target> 콜사인 </target>
+        <target>콜사인</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/alerts/form/alert-form.component.html</context>
           <context context-type="linenumber">13</context>
@@ -514,7 +514,7 @@
       </trans-unit>
       <trans-unit id="SummitRefHelp" datatype="html">
         <source>(e.g. GM/WS-001)</source>
-        <target state="new">(예 HL/BS-001)</target>
+        <target state="new">(예시 HL/BS-001)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/alerts/form/alert-form.component.html</context>
           <context context-type="linenumber">38</context>
@@ -633,8 +633,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="Spots3" datatype="html">
-        <source>최근 3일간의 스팟</source>
-        <target state="new">spots in last 3 days</target>
+        <source>spots in last 3 days</source>
+        <target state="new">최근 3일간의 스팟</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings-form/settings-form.component.html</context>
           <context context-type="linenumber">66</context>
@@ -670,7 +670,7 @@
       </trans-unit>
       <trans-unit id="DefaultComment" datatype="html">
         <source>Default comment</source>
-        <target state="new">초기설정 코멘트</target>
+        <target state="new">초기설정 주석</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings-form/settings-form.component.html</context>
           <context context-type="linenumber">78</context>
@@ -690,7 +690,7 @@
       </trans-unit>
       <trans-unit id="AlertLag" datatype="html">
         <source>Amount of prior alerts to show</source>
-        <target state="new">표시할 미리 알림의 양</target>
+        <target state="new">표시할 미리알림의 양</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings-form/settings-form.component.html</context>
           <context context-type="linenumber">108</context>
@@ -746,7 +746,7 @@
       </trans-unit>
       <trans-unit id="Normal" datatype="html">
         <source>Normal</source>
-        <target state="new">보통 모드</target>
+        <target state="new">일반 모드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings-form/settings-form.component.html</context>
           <context context-type="linenumber">132</context>
@@ -754,7 +754,7 @@
       </trans-unit>
       <trans-unit id="DarkTheme" datatype="html">
         <source>Dark</source>
-        <target state="new">짙은 모드</target>
+        <target state="new">반전 모드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings-form/settings-form.component.html</context>
           <context context-type="linenumber">133</context>
@@ -762,7 +762,7 @@
       </trans-unit>
       <trans-unit id="FlatTheme" datatype="html">
         <source>Flat</source>
-        <target state="new">편형한 모드</target>
+        <target state="new">납작 모드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings-form/settings-form.component.html</context>
           <context context-type="linenumber">134</context>
@@ -770,7 +770,7 @@
       </trans-unit>
       <trans-unit id="AudioAlertOnNewSpots" datatype="html">
         <source>Audio alert on new spots: </source>
-        <target state="new">새로운 스팟정보를 목소리로 미리알림:?</target>
+        <target state="new">새로운 스팟정보를 목소리로 알림:?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings-form/settings-form.component.html</context>
           <context context-type="linenumber">139</context>
@@ -866,7 +866,7 @@
       </trans-unit>
       <trans-unit id="Centred" datatype="html">
         <source>Centred</source>
-        <target state="new">가운데</target>
+        <target state="new">가운데 정렬</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings-form/settings-form.component.html</context>
           <context context-type="linenumber">166</context>
@@ -906,7 +906,7 @@
       </trans-unit>
       <trans-unit id="RecentSummitInfo" datatype="html">
         <source>Recent Summit Info</source>
-        <target state="new">Recent Summit Info</target>
+        <target state="new">최근 산정상 정보</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/navmenu/navmenu.component.html</context>
           <context context-type="linenumber">29</context>
@@ -914,7 +914,7 @@
       </trans-unit>
       <trans-unit id="SOTAHome" datatype="html">
         <source>SOTA Home</source>
-        <target state="new">SOTA Home</target>
+        <target state="new">SOTA 홈</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/navmenu/navmenu.component.html</context>
           <context context-type="linenumber">31</context>
@@ -922,7 +922,7 @@
       </trans-unit>
       <trans-unit id="Reflector" datatype="html">
         <source>Reflector</source>
-        <target state="new">Reflector</target>
+        <target state="new">리플랙터</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/navmenu/navmenu.component.html</context>
           <context context-type="linenumber">32</context>
@@ -930,7 +930,7 @@
       </trans-unit>
       <trans-unit id="Database" datatype="html">
         <source>Database</source>
-        <target state="new">Database</target>
+        <target state="new">데이터베이스</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/navmenu/navmenu.component.html</context>
           <context context-type="linenumber">33</context>
@@ -1046,7 +1046,7 @@
       </trans-unit>
       <trans-unit id="FreqModeHelp" datatype="html">
         <source>Format: [Freq-mode, freq2-mode2, ...] max 40 characters.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>(e.g. 7.030-cw, 14.250-ssb). Mode should be: am, cw, data, dv, fm, ssb or other. </source>
-        <target state="new">입력형식: [Freq-mode, freq2-mode2, ...] 최대 반가 40문자.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>(예 7.030-cw, 14.250-ssb). 운용 모드는 : am, cw, data, dv, fm, ssb or other 를 사용. </target>
+        <target state="new">입력형식: [주파수-모드, 주파수2-모드2, ...] 최대 반각 40문자.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>(예 7.030-cw, 14.250-ssb). 운용 모드는 : am, cw, data, dv, fm, ssb or other 를 사용. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/alerts/form/alert-form.component.html</context>
           <context context-type="linenumber">68</context>
@@ -1130,7 +1130,7 @@
       </trans-unit>
       <trans-unit id="AlertsShowing" datatype="html">
         <source>Showing <x id="INTERPOLATION" equiv-text="{{alertsCount}}"/> <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>filtered <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>alerts.</source>
-        <target state="new">Showing <x id="INTERPOLATION" equiv-text="{{alertsCount}}"/>의 <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>필터<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>된 미리알림 표시</target>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{alertsCount}}"/>의 <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>필터<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>된 미리알림 표시</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/alerts/alerts.component.html</context>
           <context context-type="linenumber">5</context>
@@ -1422,7 +1422,7 @@
       </trans-unit>
       <trans-unit id="SpottedOn" datatype="html">
         <source> spotted on </source>
-        <target state="new"> spotted on </target>
+        <target state="new"> 스팟개시 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/spots/spots.component.html</context>
           <context context-type="linenumber">86</context>
@@ -1430,7 +1430,7 @@
       </trans-unit>
       <trans-unit id="SpottedTime" datatype="html">
         <source> at </source>
-        <target state="new"> at </target>
+        <target state="new"> 시간 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/spots/spots.component.html</context>
           <context context-type="linenumber">86</context>
@@ -1474,7 +1474,7 @@
       </trans-unit>
       <trans-unit id="By" datatype="html">
         <source>by</source>
-        <target state="new">게시자</target>
+        <target state="new">운용자</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/spots/spots.component.html</context>
           <context context-type="linenumber">124</context>
@@ -1595,7 +1595,7 @@
       </trans-unit>
       <trans-unit id="FilterExamples2" datatype="html">
         <source>'GM' or 'F/' or 'G/CE' or 'JA/GM-064'</source>
-        <target state="new">'HL' or 'L/' or 'L/BS' or 'HL/BS-001'</target>
+        <target state="new">'GM' or 'F/' or 'G/CE' or 'HL/BS-001'</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/alerts/alerts.component.html</context>
           <context context-type="linenumber">32</context>
@@ -1771,10 +1771,10 @@
       </trans-unit>
       <trans-unit id="ModeRequired" datatype="html">
         <source>
-        모드를 입력하세요
+        Mode is required
       </source>
         <target state="new">
-        모드
+        모드를 입력하세요
       </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/spots/form/spot-form.component.html</context>
@@ -1801,7 +1801,7 @@
       </trans-unit>
       <trans-unit id="ShowingLastNumberSpots" datatype="html">
         <source>Showing <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/><x id="INTERPOLATION" equiv-text="{{ mode }}"/> <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>spots in last <x id="INTERPOLATION_1" equiv-text="{{ 0 - pageSize }}"/> hr<x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/>s<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>.</source>
-        <target state="new">Showing <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/><x id="INTERPOLATION" equiv-text="{{ mode }}"/> <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>spots in last <x id="INTERPOLATION_1" equiv-text="{{ 0 - pageSize }}"/> hr<x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/>s<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>.</target>
+        <target state="new">Showing <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/><x id="INTERPOLATION" equiv-text="{{ mode }}"/> <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>최근의 스팟 <x id="INTERPOLATION_1" equiv-text="{{ 0 - pageSize }}"/> hr<x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/>s<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/spots/spots.component.html</context>
           <context context-type="linenumber">10</context>
